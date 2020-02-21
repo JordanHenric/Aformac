@@ -3,7 +3,7 @@ Apprentissage de git
 
 ## h2
 ###### h6
-*italiqueœ*
+*italique*
 **bold**
 _**italic et bold**_
 * Liste 1
