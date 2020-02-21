@@ -1,20 +1,30 @@
 # Aformac
 Apprentissage de git
 
-## h2
-###### h6
-*italique*
-**bold**
-_**italic et bold**_
-* Liste 1
-  * Item A
-* Liste 2
-  * Item B
+## Prerequis
+**Utilisation des bibliotheques tiers avec :**
+* Bootstrap
+* Datatables
+* FontAwesome
 
-  ```javascript
-  console.log('Hello');
-  ```
-  
+**Utilisation de bibliotheques back avec**
+* Twig
+* Smarty
+
+### Installation
+```shell
+composer require twig:3.0
+```
+
+requiert la presence dèun serveur MySql et d'un serveur Apache2.
+Php7.2 est obligatoire.
+
+#### Usage
+
+Prenez votre navigateur est rendez-vous sur http://localhost/projet
+
+- [x] 1.0.0 : Ajout d'une protection anticrsf 
+- [] 1.0.0 : Ajout d'une protequi antisql injection
   First | Second
   ------|-------
   Content 1 | Content 2
